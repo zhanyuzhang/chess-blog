@@ -5,6 +5,7 @@
 可能有人会问，为什么不在GitHub Pages上写呢？额......这个问题问得好，因为我这人比较懒，不想花时间去搞个花俏的个人主页。不过，怎么说呢，通过issue的方式来发博客相比较于github page， 可能SEO上没有那么友好 ，表现形式也没有那个性化，但是，评论和讨论却是比较灵活的，github page评论还需要使用第三方插件啊。。。
 
 ### Dry good list
+* [使用windows任务计划程序自动清除C盘缓存文件](https://github.com/zhanyuzhang/chess-blogs/issues/6)
 * [深入理解JavaScript事件循环机制](https://github.com/zhanyuzhang/chess-blogs/issues/5)
 * [react源码解读（二）](https://github.com/zhanyuzhang/chess-blogs/issues/4)
 * [react源码解读（一）](https://github.com/zhanyuzhang/chess-blogs/issues/3)
