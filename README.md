@@ -1,4 +1,5 @@
 ### Dry good list
+* [深入理解CSS选择器优先级](https://github.com/zhanyuzhang/chess-blogs/issues/7)
 * [使用windows任务计划程序自动清除C盘缓存文件](https://github.com/zhanyuzhang/chess-blogs/issues/6)
 * [深入理解JavaScript事件循环机制](https://github.com/zhanyuzhang/chess-blogs/issues/5)
 * [react源码解读（二）](https://github.com/zhanyuzhang/chess-blogs/issues/4)
